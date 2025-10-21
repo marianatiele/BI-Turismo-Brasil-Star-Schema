@@ -34,7 +34,7 @@ A análise rápida do painel final (abaixo) revela os seguintes insights crític
 
 
 
-## 🔗 Fonte de Dados
+##  Fonte de Dados
 
 Os dados utilizados neste projeto são públicos e foram obtidos através do portal de dados abertos do governo brasileiro.
 
